@@ -13,7 +13,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/VikalpNimesh/",
   resume:
-    "https://drive.google.com/file/d/1wziNWW8jrvXW2uaiwHB6eaU3AdCbjQu_/view",
+    "https://drive.google.com/file/d/1u-Qndw6AWZSkYH_k9PQ1s1gZxo5VkjHR/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vikalpnimesh/",
   twitter: "https://www.linkedin.com/in/vikalpnimesh/",
   insta: "https://www.linkedin.com/in/vikalpnimesh/",
@@ -208,7 +208,7 @@ export const experiences = [
     img: "https://imgs.search.brave.com/RPesPMu1VE4nAcc9miIv4N9ADT1oIr331MrQLIiVPqM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9TYW1zdW5n/L1NhbXN1bmctTG9n/by53aW5lLnN2Zw",
     role: "Web Developer Intern",
     company: "Samsung R&D Institute India -Noida ",
-    date: "Nov 2023 - Jan 2024",
+    date: "Mar 2024 - May 2024",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
     skills: [
       "ReactJS",
